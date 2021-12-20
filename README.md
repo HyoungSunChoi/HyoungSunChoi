@@ -1,4 +1,8 @@
 
+Hi there! I'm <b>Machine Learning Engineer</b> using Python.
+I'm intrested in Recommendation System, NLP
+
+https://img.shields.io/badge/%23EA4335-chlgudtjs9568%40gmail.com-orange
 
 <!--
 **HyoungSunChoi/HyoungSunChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +23,6 @@ Here are some ideas to get you started:
 # Machine Learning Engineer
 
 ## Studying Data Science, Deep Learning, Python
+
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
