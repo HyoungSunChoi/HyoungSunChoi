@@ -2,7 +2,7 @@
 Hi there! I'm <b>Machine Learning Engineer</b> using Python.
 I'm intrested in Recommendation System, NLP
 
-<img alt='Gmail' src="https://img.shields.io/badge/logo=%23EA4335-chlgudtjs9568%40gmail.com-orange">
+<img alt='Gmail' src="https://img.shields.io/badge/-chlgudtjs9568%40gmail.com-orange">
 
 <!--
 **HyoungSunChoi/HyoungSunChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
